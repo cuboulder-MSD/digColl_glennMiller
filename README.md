@@ -54,7 +54,7 @@ Language(s) seen in this collection include: English
 ### Form
 A particular physical presentation of a resource, including the physical form or medium of material for a resource. 
  
-Form terms include: [black-and-white photographs](http://vocab.getty.edu/page/aat/300128347) ; [letters (correspondence])(http://vocab.getty.edu/page/aat/300026879)
+Form terms include: [black-and-white photographs](http://vocab.getty.edu/page/aat/300128347) ; [letters (correspondence](http://vocab.getty.edu/page/aat/300026879)
 ### Extent
 The size or scale of the work.
 ### Internet Media Type: 
