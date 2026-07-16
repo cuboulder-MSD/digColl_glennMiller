@@ -22,7 +22,7 @@ Type terms used in this collection include: Manuscript, Still image, Moving imag
 ### Genre
 A term or terms that designate a category characterizing a particular style, form, or content. 
  
-Genre terms used in the collection include: [memory books](http://vocab.getty.edu/page/aat/300435461) ; (family portraits)[http://vocab.getty.edu/page/aat/300418028] ; (portraits)[http://vocab.getty.edu/page/aat/300015637]
+Genre terms used in the collection include: [memory books](http://vocab.getty.edu/page/aat/300435461) ; [family portraits](http://vocab.getty.edu/page/aat/300418028) ; [portraits](http://vocab.getty.edu/page/aat/300015637)
 ### Place Created
 Location of work creation or publication city. 
  
@@ -54,7 +54,7 @@ Language(s) seen in this collection include: English
 ### Form
 A particular physical presentation of a resource, including the physical form or medium of material for a resource. 
  
-Form terms include: (black-and-white photographs)[http://vocab.getty.edu/page/aat/300128347] ; (letters (correspondence))[http://vocab.getty.edu/page/aat/300026879]
+Form terms include: [black-and-white photographs](http://vocab.getty.edu/page/aat/300128347) ; [letters (correspondence])(http://vocab.getty.edu/page/aat/300026879)
 ### Extent
 The size or scale of the work.
 ### Internet Media Type: 
@@ -75,10 +75,10 @@ General textual information relating to a resource.
 ### Subject Topic
 A term or phrase representing the primary topic(s) on which a work is focused. 
  
-Terms used: (Big band music)[http://id.loc.gov/authorities/subjects/sh85013941] ; (Families)[http://id.worldcat.org/fast/1728849]
+Terms used: [Big band music](http://id.loc.gov/authorities/subjects/sh85013941) ; [Families](http://id.worldcat.org/fast/1728849)
 ### Subject Name
 A name used as a subject or additional authors, recipients, or names mentioned within the record.
-Terms used: Miller, Elmer Deane, 1901-1971 ; (Miller, Wynne)[http://id.loc.gov/authorities/names/n2004075626] ; (Glenn Miller Orchestra)[http://id.loc.gov/authorities/names/n93005948]
+Terms used: Miller, Elmer Deane, 1901-1971 ; [Miller, Wynne](http://id.loc.gov/authorities/names/n2004075626) ; [Glenn Miller Orchestra](http://id.loc.gov/authorities/names/n93005948)
 ### Subject Geographic
 Geographic location(s) relevant to the item. 
  
