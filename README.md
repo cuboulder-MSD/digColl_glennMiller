@@ -127,5 +127,4 @@ For more information about this collection visit the webpage at the CU Boulder A
 ## Notes
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
 ## Metadata Versions
-[Also include notes about metadata versions uploaded to Github. For example, date,  the file name, and a brief description of the change in metadata from its previous version.]
  Example: 1st Batch: Glenn_Miller_Digital_Collecti_20260716131222; Uploaded 2026-07-16; metadata uploaded to Luna with DOIs minted.
