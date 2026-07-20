@@ -128,3 +128,4 @@ For more information about this collection visit the webpage at the CU Boulder A
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
 ## Metadata Versions
 1st Batch: Glenn_Miller_Digital_Collecti_20260716131222; Uploaded 2026-07-16; metadata uploaded to Luna with DOIs minted.
+2nd Version: Glenn_Miller_Digital_Collecti_20260720082504.csv; Uploaded 2026-07-20; metadata for the color slides updated with names.
