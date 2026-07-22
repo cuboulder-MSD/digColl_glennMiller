@@ -129,3 +129,4 @@ Please note that the metadata contained in this repository may not be the most u
 ## Metadata Versions
 1st Batch: Glenn_Miller_Digital_Collecti_20260716131222; Uploaded 2026-07-16; metadata uploaded to Luna with DOIs minted.
 <br>2nd Version: Glenn_Miller_Digital_Collecti_20260720082504.csv; Uploaded 2026-07-20; metadata for the color slides updated with names.
+<br>3rd Version:Glenn_Miller_Digital_Collecti_20260722092640.csv; Uploaded 2026-07-22; metadata for 19 additional photographs.
